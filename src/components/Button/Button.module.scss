@@ -132,7 +132,8 @@ $disabled-on-primary-color-opacity: 0.5;
 }
 
 .kindPrimary.colorPrimary {
-  background: var(--primary-color);
+  //background: var(--primary-color);
+  background: red;
 }
 
 .kindPrimary.colorBrand {
