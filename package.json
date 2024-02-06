@@ -2,7 +2,7 @@
   "name": "test-monday-ui-react-core",
   "version": "2.81.7",
   "description": "Testing Official monday.com UI resources for application development in React.js",
-  "main": "./dist/index.js",
+  "main": "./dist/main.js",
   "types": "./dist/types.d.ts",
   "private": false,
   "exports": {
@@ -10,7 +10,7 @@
     ".": {
       "types": "./dist/types.d.ts",
       "import": "./dist/esm/src/index.js",
-      "default": "./dist/index.js"
+      "default": "./dist/main.js"
     },
     "./dist/": "./dist/",
     "./icons": {
