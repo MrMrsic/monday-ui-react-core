@@ -1,6 +1,6 @@
 {
   "name": "test-monday-ui-react-core",
-  "version": "2.81.7",
+  "version": "2.81.9",
   "description": "Testing Official monday.com UI resources for application development in React.js",
   "main": "./dist/main.js",
   "types": "./dist/types.d.ts",
@@ -89,7 +89,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mondaycom/monday-ui-react-core.git"
+    "url": "https://github.com/mondaycom/monday-ui-react-core.git"
   },
   "author": "",
   "license": "MIT",
